@@ -3,8 +3,6 @@ venv/
 models/
 
 # Jupyter Notebooks - drafts
-jupyter_notebooks/lesson_7.1.ipynb
-jupyter_notebooks/lesson_7.2.ipynb
 jupyter_notebooks/lesson_8.1.ipynb
 jupyter_notebooks/lesson_8.2.ipynb
 jupyter_notebooks/lesson_9.1.ipynb
